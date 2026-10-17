@@ -1,0 +1,1 @@
+{"format": "MANIFEST_V2", "clusters": [{"id": "c__joined", "label": "Combined — Joined", "sequences": "c__sequences"}, {"id": "w__full", "label": "Written — Full", "sequences": "w__sequences"}, {"id": "r__full", "label": "Rewritten — Full", "sequences": "r__sequences"}]}
