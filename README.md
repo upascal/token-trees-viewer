@@ -15,9 +15,9 @@ The viewer shows three trees:
 
 | Tree | What it is |
 |---|---|
-| **Combined — Joined** | Both prompts together, keeping only the branches that reach a shared ending, so you see where the two framings converge |
-| **Written — Full** | The full branching tree for "written", from opening to common endings |
-| **Rewritten — Full** | The same for "rewritten" |
+| **History, written and rewritten by Artificial Intelligence** | Both prompts together, keeping only the branches that reach a shared ending, so you see where the two framings converge |
+| **History, written by Artificial Intelligence** | The full branching tree for "written", from opening to common endings |
+| **History, rewritten by Artificial Intelligence** | The same for "rewritten" |
 
 ## Layout
 
